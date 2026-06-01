@@ -143,3 +143,6 @@ vite.config.ts.timestamp-*
 
 # Vercel
 .vercel
+
+# Vite build output (deployed to gh-pages, not tracked on main)
+build
